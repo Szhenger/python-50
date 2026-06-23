@@ -1,4 +1,4 @@
-def main():
+def main() -> None:
     # Get name from user
     name = input("What's your name? ")
 
